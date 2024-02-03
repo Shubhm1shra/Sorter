@@ -46,5 +46,4 @@ private:
     std::vector<float> getNormalizedHeight(const std::vector<int>& arr);
 
     void initialize();
-    void swap(int index1, int index2);
 };
